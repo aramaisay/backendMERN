@@ -1,0 +1,6 @@
+{
+    "PORT":5000,
+    "MongoUri":"mongodb+srv://admin:anonymouzay0025@cluster0-o5td3.mongodb.net/Skeletone?retryWrites=true&w=majority",
+    "PrivateKey":"anonnymouzay0025451535",
+    "MailerKey":"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"
+}
